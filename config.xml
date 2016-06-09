@@ -7,10 +7,10 @@
 	
 	<!--versionCode is optional and Android only-->  
 	
-	<name>Mi Piano</name>
+	<name>Bases de Datos</name>
 	
 	<description>
-	Ejemplo para utilizar Plugins de Audio
+	Ejemplo para dar de alta un usuario
 	</description>
 	
 	<preference name="phonegap-version" value="3.5.0"/>
